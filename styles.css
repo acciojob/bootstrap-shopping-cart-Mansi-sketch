@@ -14,6 +14,7 @@ body{
 }
 .block-heading{
 	color:#3b99e0;
+	text-align:center;
 }
 ul>li{
 	list-style:none;
